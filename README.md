@@ -1,30 +1,27 @@
 # Hi, I'm Moiz Ali 👋
 
-🎓 **Computer Science Student** passionate about creating real-world solutions through code.  
-💻 Focused on **Backend Development** (Java, Spring Boot, PostgreSQL) with a growing interest in **Python**.  
-🤖 Currently exploring **AI Agents & Automation** to build smarter, faster workflows.  
-⚙️ Building automation systems for a service-based business to improve efficiency and scale.  
+🎓 **Computer Science Student** passionate about building **full-stack applications** and solving real-world problems through code.  
+💻 Currently focused on **React.js (Frontend)** and **Python (Backend with FastAPI)**, with solid experience in **Java** from previous projects.  
+🤖 Exploring **AI Agents & Automation** to create smarter, faster workflows.  
+⚙️ Building automation systems for service-based businesses to improve efficiency and scale operations.  
 
 ---
 
 ## 🔧 Tech Stack & Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ---
 
 ## 📈 Goals for 2025
-- Complete multiple backend projects with clean, documented code  
-- Build my first AI-powered automation tool from scratch  
-- Contribute to at least one open-source project  
-- Maintain consistent coding activity throughout the year  
+- Build and deploy multiple **full-stack projects** using React + FastAPI + PostgreSQL  
+- Launch my first **AI-powered automation tool** for real clients  
+- Contribute to at least one open-source or community project  
+- Maintain consistent coding activity and share progress on GitHub & LinkedIn  
 
 ---
-⚡ **Fun fact:** I code with rain videos (or whatever’s playing) in the background. 
+
+⚡ **Fun fact:** I often code with rain videos (or random background noise) playing.  
 
 💡 *"Talk is cheap. Show me the code."* — **Linus Torvalds**
-
-
