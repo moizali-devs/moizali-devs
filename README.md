@@ -2,54 +2,44 @@
   <img src="https://www.ghibli.jp/gallery/kazetachinu031.jpg" alt="banner" width="800">
 </p>
 
-# Hi, I'm Moiz Ali 👋
+<h1 align="center">Hi, I'm Moiz Ali 👋</h1>
 
-🎓 **Computer Science Student** | 🛠️ Backend & Automation Engineer  
-🧠 Currently building **AI-driven automation systems** and smart tools that help businesses scale without hiring more humans.  
-⚙️ Focused on **Python (FastAPI)**, **Automation**, **System Design**, and **AI Agents** for real-world problem solving.  
-💡 Previously worked in **Java & React**, but now deep into **backend, APIs, process automation, orchestration & system reliability**.
-
----
-
-## 🔧 Tech Stack & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-EE513B?style=for-the-badge&logo=git&logoColor=white)
-
-🚀 Also exploring:
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
-![N8N](https://img.shields.io/badge/n8n-EA4B73?style=for-the-badge&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make.com-2D2E83?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+<p align="center">
+  🚀 Backend & Automation Engineer | 🧠 Systems Thinker | ⚙️ AI Workflow Builder
+</p>
 
 ---
 
-## 🛠️ What I'm Building
-- **AI-powered Automation Pipelines** for service-based businesses (TikTok Shop, creator management, affiliate tracking, CRM integrations)
-- **APIs & Microservices** using FastAPI, PostgreSQL, Docker & cloud deployment
-- **Smart Assistants & Internal Tools** using AI agents, LangChain, Webhooks, Google Sheets & integrations
+### 🌿 About Me  
+I build backend systems and automation workflows that reduce human work.  
+Working with **FastAPI**, **PostgreSQL**, **Docker**, **AI Agents**, and APIs to turn messy tasks into clean, scalable tools.
 
 ---
 
-## 📈 Goals for 2025
-- Build production-grade **automation suites** for real businesses & clients  
-- Launch my personal **AI agent-powered product**  
-- Contribute to an open-source AI or automation framework  
-- Stay consistent on GitHub & share progress publicly
+### 🔧 Tech I Use
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/GIT-F05133?style=for-the-badge&logo=git"/>
+</p>
+
+💭 Exploring: **LangChain**, **n8n**, **Make**, **Agent Orchestration**, **OpenAI Tools**
 
 ---
 
-## 🎯 Currently Learning & Experimenting With
-- Agent Frameworks (LangChain | CrewAI | DSPy)  
-- Scalable FastAPI project architecture  
-- Workflow Orchestration (n8n, Airflow, Make)  
-- Cloud Deployment with Docker, Render, Oracle, Railway
+### ⚙️ What I Build
+⭐ Automation pipelines for service-based workflows  
+⭐ API-based backend services  
+⭐ Internal tools & AI assistants  
+⭐ Webhook-based tracking & integration systems  
 
 ---
 
-⚡ **Fun fact:** I think in automations. If I do something manually twice, I build a tool for it.
+### 🎯 2025 Goal  
+Build a **zero-touch automation system** that runs a service business with minimal human input.
 
-💡 *“First do it manually. Then automate it. Then never talk about it again.”*
+---
 
+<p align="center"><i>“If I do it twice, I automate it.”</i></p>
