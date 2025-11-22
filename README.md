@@ -1,27 +1,51 @@
 # Hi, I'm Moiz Ali 👋
 
-🎓 **Computer Science Student** passionate about building **full-stack applications** and solving real-world problems through code.  
-💻 Currently focused on **React.js (Frontend)** and **Python (Backend with FastAPI)**, with solid experience in **Java** from previous projects.  
-🤖 Exploring **AI Agents & Automation** to create smarter, faster workflows.  
-⚙️ Building automation systems for service-based businesses to improve efficiency and scale operations.  
+🎓 **Computer Science Student** | 🛠️ Backend & Automation Engineer  
+🧠 Currently building **AI-driven automation systems** and smart tools that help businesses scale without hiring more humans.  
+⚙️ Focused on **Python (FastAPI)**, **Automation**, **System Design**, and **AI Agents** for real-world problem solving.  
+💡 Previously worked in **Java & React**, but now deep into **backend, APIs, process automation, orchestration & system reliability**.
 
 ---
 
 ## 🔧 Tech Stack & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-EE513B?style=for-the-badge&logo=git&logoColor=white)
+
+🚀 Also exploring:
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![N8N](https://img.shields.io/badge/n8n-EA4B73?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make.com-2D2E83?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## 🛠️ What I'm Building
+- **AI-powered Automation Pipelines** for service-based businesses (TikTok Shop, creator management, affiliate tracking, CRM integrations)
+- **APIs & Microservices** using FastAPI, PostgreSQL, Docker & cloud deployment
+- **Smart Assistants & Internal Tools** using AI agents, LangChain, Webhooks, Google Sheets & integrations
+
 ---
 
 ## 📈 Goals for 2025
-- Build and deploy multiple **full-stack projects** using React + FastAPI + PostgreSQL  
-- Launch my first **AI-powered automation tool** for real clients  
-- Contribute to at least one open-source or community project  
-- Maintain consistent coding activity and share progress on GitHub & LinkedIn  
+- Build production-grade **automation suites** for real businesses & clients  
+- Launch my personal **AI agent-powered product**  
+- Contribute to an open-source AI or automation framework  
+- Stay consistent on GitHub & share progress publicly
 
 ---
 
-⚡ **Fun fact:** I often code with rain videos (or random background noise) playing.  
+## 🎯 Currently Learning & Experimenting With
+- Agent Frameworks (LangChain | CrewAI | DSPy)  
+- Scalable FastAPI project architecture  
+- Workflow Orchestration (n8n, Airflow, Make)  
+- Cloud Deployment with Docker, Render, Oracle, Railway
 
-💡 *"Talk is cheap. Show me the code."* — **Linus Torvalds**
+---
+
+⚡ **Fun fact:** I think in automations. If I do something manually twice, I build a tool for it.
+
+💡 *“First do it manually. Then automate it. Then never talk about it again.”*
+
