@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.ghibli.jp/gallery/kazetachinu031.jpg" alt="banner" width="800">
+  <img src="[https://www.ghibli.jp/gallery/kazetachinu031.jpg](https://c4.wallpaperflare.com/wallpaper/668/1020/1012/azumanga-daioh-osaka-1024x768-anime-azumanga-hd-art-wallpaper-preview.jpg)" alt="banner" width="800">
 </p>
 
 <h1 align="center">Hi, I'm Moiz Ali 👋</h1>
