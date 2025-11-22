@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.ghibli.jp/gallery/kazetachinu031.jpg" alt="banner" width="800">
+</p>
+
 # Hi, I'm Moiz Ali 👋
 
 🎓 **Computer Science Student** | 🛠️ Backend & Automation Engineer  
