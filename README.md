@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://c4.wallpaperflare.com/wallpaper/668/1020/1012/azumanga-daioh-osaka-1024x768-anime-azumanga-hd-art-wallpaper-preview.jpg" alt="banner" width="800">
+  <img src="https://c4.wallpaperflare.com/wallpaper/503/889/116/brunettes-azumanga-daioh-chibi-sleepy-yawn-1680x1050-anime-azumanga-hd-art-wallpaper-preview.jpg" alt="banner" width="800">
 </p>
 
 <h1 align="center">Hi, I'm Moiz Ali 👋</h1>
