@@ -147,15 +147,6 @@ Full-stack e-commerce platform for computer hardware retail: storefront + admin 
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=moizali-devs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0F172A&title_color=E2E8F0&text_color=94A3B8&icon_color=60A5FA" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizali-devs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=E2E8F0&text_color=94A3B8" height="165"/>
-</div>
-
-<br/>
-
 <div align="center">
 
 *Currently open to AI Engineer roles and select freelance/contract work, reach out via* [**LinkedIn**](https://www.linkedin.com/in/automoiz/) *or* [**email**](mailto:moizpriv47@gmail.com)*.*
