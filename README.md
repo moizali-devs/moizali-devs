@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- Animated typing header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A5F&height=200&section=header&text=Moiz%20Ali&fontSize=56&fontColor=E2E8F0&fontAlignY=40&desc=AI%20Engineer%20%E2%80%94%20RAG%20Systems%20%26%20Autonomous%20Agents&descAlignY=62&descSize=18&descColor=94A3B8&animation=fadeIn" width="100%"/>
+# Moiz Ali
+
+### AI Engineer, RAG Systems & Autonomous Agents
 
 <br/>
 
@@ -15,13 +16,13 @@
 
 ## About
 
-I'm a Computer Science undergraduate (final year, Bahria University Karachi) building **production AI systems** — retrieval-augmented generation pipelines, LLM-powered agents, and the automation infrastructure around them. Not tutorials, not toy demos: systems that run for paying clients and real users today.
+I'm a Computer Science undergraduate (final year, Bahria University Karachi) building **production AI systems**: retrieval-augmented generation pipelines, LLM-powered agents, and the automation infrastructure around them. Not tutorials, not toy demos, systems that run for paying clients and real users today.
 
 Currently:
 
-- 🔭 Building **[DevLens](https://github.com/moizali-devs/devlens)** — a local-first RAG system that answers natural-language questions about a codebase with cited, file-accurate answers, using AST-aware chunking instead of naive text splitting.
-- 🤖 Running **[Aria](https://github.com/moizali-devs/Aria)** in production — an AI Discord agent that manages the full creator lifecycle (onboarding, compliance tracking, revenue reporting, grounded Q&A) for a live brand community.
-- 🛠️ Shipping automation and backend systems for agency clients — data pipeline migrations, internal tooling, and workflow automation, currently live with two active engagements.
+- 🔭 Building **[DevLens](https://github.com/moizali-devs/devlens)**, a local-first RAG system that answers natural-language questions about a codebase with cited, file-accurate answers, using AST-aware chunking instead of naive text splitting.
+- 🤖 Running **[Aria](https://github.com/moizali-devs/Aria)** in production, an AI Discord agent that manages the full creator lifecycle (onboarding, compliance tracking, revenue reporting, grounded Q&A) for a live brand community.
+- 🛠️ Shipping automation and backend systems for agency clients: data pipeline migrations, internal tooling, and workflow automation, currently live with two active engagements.
 - 📚 Deepening the infrastructure side: vector databases, agent orchestration, and cloud deployment (AWS).
 
 <br/>
@@ -33,13 +34,13 @@ Currently:
 <td width="50%" valign="top">
 
 **Retrieval-Augmented Generation**
-Codebase and document Q&A systems with AST-aware chunking, grounded citations, and hallucination-resistant retrieval — designed to run fully local when the data can't leave the client's environment.
+Codebase and document Q&A systems with AST-aware chunking, grounded citations, and hallucination-resistant retrieval, designed to run fully local when the data can't leave the client's environment.
 
 </td>
 <td width="50%" valign="top">
 
 **LLM Agents & Automation**
-Discord- and workflow-native agents that take real operational work off a team's plate — compliance checking, reporting, Q&A, and multi-step task automation grounded in a business's own data.
+Discord- and workflow-native agents that take real operational work off a team's plate: compliance checking, reporting, Q&A, and multi-step task automation grounded in a business's own data.
 
 </td>
 </tr>
@@ -47,13 +48,13 @@ Discord- and workflow-native agents that take real operational work off a team's
 <td width="50%" valign="top">
 
 **Backend & Data Systems**
-FastAPI services, Postgres/Supabase-backed applications, and pipeline migrations (Make → n8n, spreadsheet → structured DB) for agency and e-commerce clients.
+FastAPI services, Postgres/Supabase-backed applications, and pipeline migrations (Make to n8n, spreadsheet to structured DB) for agency and e-commerce clients.
 
 </td>
 <td width="50%" valign="top">
 
 **Applied NLP**
-End-to-end sentiment and text-analysis pipelines (VADER, TextBlob, spaCy) turned into deployed, filterable dashboards — not notebooks that stay on a laptop.
+End-to-end sentiment and text-analysis pipelines (VADER, TextBlob, spaCy) turned into deployed, filterable dashboards, not notebooks that stay on a laptop.
 
 </td>
 </tr>
@@ -68,7 +69,7 @@ End-to-end sentiment and text-analysis pipelines (VADER, TextBlob, spaCy) turned
 <td width="50%">
 
 ### 🔍 [DevLens](https://github.com/moizali-devs/devlens)
-RAG system for natural-language codebase Q&A. AST-based chunking via tree-sitter (function/class boundaries, not token count) instead of naive text splitting — retrieval returns complete, meaningful code units with exact file/line citations. Runs fully local (Ollama + ChromaDB) or cloud (OpenAI + Pinecone) from the same pipeline.
+RAG system for natural-language codebase Q&A. AST-based chunking via tree-sitter (function/class boundaries, not token count) instead of naive text splitting, so retrieval returns complete, meaningful code units with exact file/line citations. Runs fully local (Ollama + ChromaDB) or cloud (OpenAI + Pinecone) from the same pipeline.
 
 `Python` `LlamaIndex` `ChromaDB` `tree-sitter` `FastAPI`
 
@@ -78,7 +79,7 @@ RAG system for natural-language codebase Q&A. AST-based chunking via tree-sitter
 <td width="50%">
 
 ### 🤖 [Aria](https://github.com/moizali-devs/Aria)
-AI-powered Discord community manager, live in production. Automates creator onboarding, 48-hour posting compliance, GMV/revenue tracking, invoice detection, and brand-grounded AI Q&A — with a Next.js admin dashboard for feature flags and reporting.
+AI-powered Discord community manager, live in production. Automates creator onboarding, 48-hour posting compliance, GMV/revenue tracking, invoice detection, and brand-grounded AI Q&A, with a Next.js admin dashboard for feature flags and reporting.
 
 `Python` `discord.py` `Next.js` `Supabase`
 
@@ -98,7 +99,7 @@ NLP pipeline processing ~1M product reviews into aspect-level sentiment (battery
 <td width="50%">
 
 ### 🛒 [HB Tech](https://github.com/moizali-devs/HB-Tech)
-Full-stack e-commerce platform for computer hardware retail — storefront + admin panel as a pnpm monorepo, Supabase RLS-first backend, and a WhatsApp-native checkout flow built to match how the local market actually closes sales.
+Full-stack e-commerce platform for computer hardware retail: storefront + admin panel as a pnpm monorepo, Supabase RLS-first backend, and a WhatsApp-native checkout flow built to match how the local market actually closes sales.
 
 `Next.js` `TypeScript` `Supabase` `Tailwind`
 
@@ -157,8 +158,6 @@ Full-stack e-commerce platform for computer hardware retail — storefront + adm
 
 <div align="center">
 
-*Currently open to AI Engineer roles and select freelance/contract work — reach out via* [**LinkedIn**](https://www.linkedin.com/in/automoiz/) *or* [**email**](mailto:moizpriv47@gmail.com)*.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A5F&height=100&section=footer" width="100%"/>
+*Currently open to AI Engineer roles and select freelance/contract work, reach out via* [**LinkedIn**](https://www.linkedin.com/in/automoiz/) *or* [**email**](mailto:moizpriv47@gmail.com)*.*
 
 </div>
