@@ -6,7 +6,7 @@ AI Engineer, RAG systems and autonomous agents.
 
 ## About
 
-Computer Science undergraduate (final year, Bahria University Karachi) building production AI systems: retrieval-augmented generation pipelines, LLM-powered agents, and the automation infrastructure around them. Currently building DevLens, a local-first RAG system for codebase Q&A, and running Aria, an AI Discord agent, in production for a live brand community. Also shipping automation and backend systems for two active agency client engagements.
+Building production AI systems: retrieval-augmented generation pipelines, LLM-powered agents, and the automation infrastructure around them. Currently building DevLens, a local-first RAG system for codebase Q&A, and running Aria, an AI Discord agent, in production for a live brand community. Also shipping automation and backend systems for two active agency client engagements.
 
 ## DevLens
 
@@ -39,7 +39,5 @@ Full-stack e-commerce platform for computer hardware retail: storefront and admi
 Stack: Next.js, TypeScript, Supabase, Tailwind
 
 [Repo](https://github.com/moizali-devs/HB-Tech)
-
-**Stack:** Python, TypeScript, FastAPI, Next.js, Supabase/PostgreSQL, Claude API, LlamaIndex, ChromaDB/Pinecone, Docker, AWS, n8n, discord.py
 
 Open to AI Engineer roles and select freelance/contract work. Reach out via [LinkedIn](https://www.linkedin.com/in/automoiz/) or [email](mailto:moizpriv47@gmail.com).
